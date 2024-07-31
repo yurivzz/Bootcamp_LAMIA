@@ -1,0 +1,3 @@
+link para o notebook no kalge (também está no final do arquivo Anotações_aula.ipynb):
+
+https://www.kaggle.com/code/yurizdebski/m-dulo5
